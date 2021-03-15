@@ -170,7 +170,7 @@ var dailyYYQ = {
       acid: 'AC20200611152252',
       taskId: '73e3907bbf9c4748b2fe9a053cee5e82',
       codeId: 945535686,
-      reward_name: '恭喜获得飞机杯×',
+      reward_name: '签到小游戏买扭蛋机2',
       limit: 1
     })
   },

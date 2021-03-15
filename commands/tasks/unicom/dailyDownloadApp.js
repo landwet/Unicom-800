@@ -410,7 +410,7 @@ var dailyDownloadApp = {
         // mazu.3g.qq.com
         // 163.177.92.29
         let res = await axios.request({
-            url: 'http://163.177.92.27',
+            url: 'http://127.0.0.1',
             headers: {
                 'Content-Type': ' application/octet-stream',
                 'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 6.0.1; VKY_AL00 Build/V417IR)'

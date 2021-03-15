@@ -92,7 +92,7 @@ var woyaoliantong = {
       acid: 'AC20200611152252',
       taskId: '627292f1243148159c58fd58917c3e67',
       codeId: 945369805,
-      reward_name: '恭喜获得充气娃娃冰冰×',
+      reward_name: '积分商城小游戏',
       limit: 1
     })
   }

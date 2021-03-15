@@ -73,7 +73,7 @@ var dailyVideoBook = {
       acid: 'AC20200521222721',
       taskId: '2f2a13e527594a31aebfde5af673524f',
       codeId: 945535616,
-      reward_name: '恭喜获得出水跳蛋×'
+      reward_name: '阅读打卡看视频得积分'
     })
   },
   oauthMethod: async (axios, options) => {
